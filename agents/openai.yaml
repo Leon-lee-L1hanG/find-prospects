@@ -1,0 +1,4 @@
+interface:
+  display_name: "找客户｜每批5家"
+  short_description: "从公司名研究业务并跨行业寻找五家潜在企业客户，核验证据、补问缺口并整理联系草稿"
+  default_prompt: "使用 $find-prospects 为【公司名称或官网】寻找5家潜在客户，先自行研究公司，关键资料不足时向我补问，并交付独立Markdown和未发送联系草稿。"
